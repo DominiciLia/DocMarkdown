@@ -46,8 +46,7 @@ Git es un software de control de versiones distribuido creado por Linus Torvalds
 #### Verificación de la instalación
 
 ```
-    git --version
-
+ git --version
 ```
 
 #### Enlace oficial para instalar
