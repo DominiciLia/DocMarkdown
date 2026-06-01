@@ -1,6 +1,6 @@
 # Guía de Instalación de Git en Windows
 
-![Foto logo git]("C:\Users\domin\Desktop\Año Escolar 2025-2026\Ejercicio Mardown\DocMarkdown\logo git.png")
+![Foto logo git](https://img.icons8.com/ios_filled/1200/git.jpg)
 
 ## PORTADA 
 Institución: CAFAM
