@@ -3,12 +3,12 @@
 ![Foto logo git](https://img.icons8.com/ios_filled/1200/git.jpg)
 
 ## PORTADA 
-Institución: CAFAM
-Asignatura: Administración de Base de Datos
-Tema: Guía de Instalación y Uso Básico de Git en Windows
-Estudiante: Lia K. Torres Dominici
-Profesor: Victor Recio
-Fecha: 1/6/2026
++ **Institución:** CAFAM
++ **Asignatura:** Administración de Base de Datos
++ **Tema:** Guía de Instalación y Uso Básico de Git en Windows
++ **Estudiante:** Lia K. Torres Dominici
++ **Profesor:** Victor Recio
++ **Fecha:** 1/6/2026
 
 ### Índice
 
